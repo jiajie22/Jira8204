@@ -1,1 +1,1 @@
-return "RAINING!"
+return "RAINING!" // - changed
