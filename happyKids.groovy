@@ -1,1 +1,1 @@
-"I am happy kid!"
+return "I am happy kid!"
